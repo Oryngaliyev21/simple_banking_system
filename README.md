@@ -12,6 +12,7 @@ Account creation prompts for name and initial deposit, generating unique account
 Funds can be deposited and withdrawn after validating the account number and balance.
 Check balance option displays the current account balance.
 Exit option enables users to leave with a farewell message.
+
 Additional Features:
 
 Advanced functionalities like a simple password/PIN system for enhanced security.
